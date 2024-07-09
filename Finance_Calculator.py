@@ -2,9 +2,12 @@ import math
 
 def main():
     # Display options to the user
+    print("  ")
     print("Choose either 'investment' or 'bond' from the menu below to proceed:")
-    print("investment - to calculate the amount of interest you'll earn on your investment")
-    print("bond - to calculate the amount you'll have to pay on a home loan")
+    print("  ")
+    print("investment       - to calculate the amount of interest you'll earn on your investment")
+    print("  ")
+    print("bond             - to calculate the amount you'll have to pay on a home loan")
 
     # Get the user's choice
     choice = input().lower()

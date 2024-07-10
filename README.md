@@ -34,7 +34,7 @@ After the cloning process is complete, navigate into the cloned repository folde
 4. Run the `finance_calculators.py` script.
 5. Follow the prompts to select either the investment or bond calculator and input the required information.
 
-# nvestment Calculator
+# Investment Calculator
 Input the following when prompted:
 
 The amount of money you are depositing.

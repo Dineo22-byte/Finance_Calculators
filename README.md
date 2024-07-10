@@ -54,3 +54,6 @@ Commit your changes and push to your branch.
 Submit a pull request with a detailed description of your changes.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+![Screenshot (4)](https://github.com/Dineo22-byte/Finance_Calculators/assets/141078467/689847d7-d194-4dfa-85a5-89fab9a18ac0)
+
+

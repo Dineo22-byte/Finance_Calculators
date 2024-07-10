@@ -37,12 +37,12 @@ def main():
         annual_rate = float(input("Enter the annual interest rate (as a percentage): ")) / 100
         months = int(input("Enter the number of months you plan to take to repay the bond: "))
 
-        # Calculate monthly interest rate
+     
         monthly_rate = annual_rate / 12
 
         # Calculate monthly repayment
         repayment = (monthly_rate * present_value) / (1 - math.pow((1 + monthly_rate), -months))
-        print(f"The monthly repayment amount is: {repayment}")
+        print(f"The monthly repayment amount is R: {repayment}")
 
     else:
         print("Invalid input. Please enter either 'investment' or 'bond'.")
